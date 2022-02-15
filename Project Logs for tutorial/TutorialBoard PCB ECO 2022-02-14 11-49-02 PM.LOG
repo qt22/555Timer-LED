@@ -1,0 +1,17 @@
+Change Physical Footprint: Designator=C1 Old Footprint=Genetic 0805 Capacitor New Footprint=Genetic 0805 Capacitor
+Change Physical Footprint: Designator=C2 Old Footprint=FP-C1206C-EB-MFG New Footprint=FP-C1206C-EB-MFG
+Change Physical Footprint: Designator=C3 Old Footprint=FP-C1206C-EB-MFG New Footprint=FP-C1206C-EB-MFG
+Change Physical Footprint: Designator=F1 Old Footprint=C1_BEL New Footprint=C1_BEL
+Change Physical Footprint: Designator=LED1 Old Footprint=Type 5mm New Footprint=Type 5mm
+Change Physical Footprint: Designator=LED2 Old Footprint=Type 5mm New Footprint=Type 5mm
+Change Physical Footprint: Designator=LED3 Old Footprint=Type 3mm New Footprint=Type 3mm
+Change Physical Footprint: Designator=LED4 Old Footprint=Type 3mm New Footprint=Type 3mm
+Change Physical Footprint: Designator=R1 Old Footprint=FP-RK73H2A-MFG New Footprint=FP-RK73H2A-MFG
+Change Physical Footprint: Designator=R2 Old Footprint=FP-RR0816-IPC_A New Footprint=FP-RR0816-IPC_A
+Change Physical Footprint: Designator=R3 Old Footprint=FP-CR0805-IPC_B New Footprint=FP-CR0805-IPC_B
+Change Physical Footprint: Designator=R4 Old Footprint=FP-CR0805-IPC_B New Footprint=FP-CR0805-IPC_B
+Change Physical Footprint: Designator=R5 Old Footprint=FP-CRGCQ0805-IPC_C New Footprint=FP-CRGCQ0805-IPC_C
+Change Physical Footprint: Designator=R6 Old Footprint=FP-CRGCQ0805-IPC_C New Footprint=FP-CRGCQ0805-IPC_C
+Change Physical Footprint: Designator=SW1 Old Footprint=ESWI-EG1218_V New Footprint=ESWI-EG1218_V
+Change Physical Footprint: Designator=SW2 Old Footprint=FP-CHS-01TA-MFG New Footprint=FP-CHS-01TA-MFG
+Change Physical Footprint: Designator=U1 Old Footprint=NE555S-13 New Footprint=NE555S-13
