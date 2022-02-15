@@ -1,0 +1,4 @@
+Replace Part C? 6.8uF 0805 Capacitor in C:\Users\Public\Documents\Altium\Projects\tutorial\555_timer.SchDoc with 6.8uF 0805 Capacitor from tutorialLibrary.SchLib
+Update Managed Component R? From CMP-2001-01881-1[RK73H2ATTE1001F] To CMP-2001-01881-1[RK73H2ATTE1001F] in 555_timer.SchDoc
+Update Managed Component R? From CMP-2000-02426-1[RR0816P-104-D] To CMP-2000-02426-1[RR0816P-104-D] in 555_timer.SchDoc
+Replace Part U? NE555S-13 in C:\Users\Public\Documents\Altium\Projects\tutorial\555_timer.SchDoc with NE555S-13 from tutorialLibrary.SchLib

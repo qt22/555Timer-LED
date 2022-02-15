@@ -1,0 +1,14 @@
+Replace Part C1 6.8uF 0805 Capacitor in C:\Users\Public\Documents\Altium\Projects\tutorial\555_timer.SchDoc with 6.8uF 0805 Capacitor from tutorialLibrary.SchLib
+Update Managed Component C2 From CMP-03020-021901-1[C1206C103K5RAC7210] To CMP-03020-021901-1[C1206C103K5RAC7210] in 555_timer.SchDoc
+Update Managed Component LED1 From CMP-1488-00009-1[151051BS04000] To CMP-1488-00009-1[151051BS04000] in 555_timer.SchDoc
+Update Managed Component LED2 From CMP-1488-00009-1[151051BS04000] To CMP-1488-00009-1[151051BS04000] in 555_timer.SchDoc
+Update Managed Component LED3 From CMP-1488-00004-1[151031VS06000] To CMP-1488-00004-1[151031VS06000] in 555_timer.SchDoc
+Update Managed Component LED4 From CMP-1488-00004-1[151031VS06000] To CMP-1488-00004-1[151031VS06000] in 555_timer.SchDoc
+Update Managed Component R1 From CMP-2001-01881-2[RK73H2ATTE1001F] To CMP-2001-01881-2[RK73H2ATTE1001F] in 555_timer.SchDoc
+Update Managed Component R2 From CMP-2000-02426-2[RR0816P-104-D] To CMP-2000-02426-2[RR0816P-104-D] in 555_timer.SchDoc
+Update Managed Component R3 From CMP-07231-002659-1[CR0805-JW-101ELF] To CMP-07231-002659-1[CR0805-JW-101ELF] in 555_timer.SchDoc
+Update Managed Component R4 From CMP-07231-002659-1[CR0805-JW-101ELF] To CMP-07231-002659-1[CR0805-JW-101ELF] in 555_timer.SchDoc
+Update Managed Component R5 From CMP-03211-008258-1[CRGCQ0805F120R] To CMP-03211-008258-1[CRGCQ0805F120R] in 555_timer.SchDoc
+Update Managed Component R6 From CMP-03211-008258-1[CRGCQ0805F120R] To CMP-03211-008258-1[CRGCQ0805F120R] in 555_timer.SchDoc
+Update Managed Component SW1 From CMP-1696-00002-1[EG1218] To CMP-1696-00002-1[EG1218] in 555_timer.SchDoc
+Replace Part U1 NE555S-13 in C:\Users\Public\Documents\Altium\Projects\tutorial\555_timer.SchDoc with NE555S-13 from tutorialLibrary.SchLib
